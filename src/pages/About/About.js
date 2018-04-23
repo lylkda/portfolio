@@ -1,12 +1,11 @@
 import React from 'react';
-import {Button, Icon} from 'semantic-ui-react';
 import Socials from "../../components/Socials";
 import "./About.css";
 
 const About = () => (
 <div>
  <div className="container">
-    <img className="profileImg" src="https://lylkda.github.io/assets/images/profilepic.jpg"/>
+    <img className="profileImg" alt="Linda Ly" src="https://lylkda.github.io/assets/images/profilepic.jpg"/>
     <h3>"Tech-Savvy Math teacher with expert knowledge of HTML and CSS. 
     Possessing a strong aptitude for problem-solving and web development to 
     think outside the box to improve the quality of teaching."</h3>

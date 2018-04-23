@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
-import { Divider, List, Grid, Image } from 'semantic-ui-react';
+import { Divider, List, Grid } from 'semantic-ui-react';
 
 
 const Nav = () => (
@@ -13,6 +13,7 @@ const Nav = () => (
                 <List bulleted horizontal link>
                     <List.Item as={Link} to='/work'>Work</List.Item>
                     <List.Item as={Link} to='/'>About</List.Item>
+                    <List.Item as={Link} to='/contact'>Contact</List.Item>
                 </List>
             </Grid.Column>
         </Grid>

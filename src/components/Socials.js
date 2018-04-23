@@ -1,6 +1,5 @@
 import React from 'react'
-import { Button, Icon, Grid } from 'semantic-ui-react'
-import {Link} from 'react-router-dom';
+import { Button, Icon, Grid } from 'semantic-ui-react';
 
 const Socials = () => (
 <Grid centered columns={3} style={{'padding-top': 20, 'padding-bottom': 20}}>
