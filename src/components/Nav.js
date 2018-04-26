@@ -6,7 +6,7 @@ import { Divider, List, Grid } from 'semantic-ui-react';
 const Nav = () => (
     <div>
         <h1 className="title">
-            Linda K Ly
+            Linda K. Ly
       </h1>
         <Grid textAlign='center' columns={2}>
             <Grid.Column>
