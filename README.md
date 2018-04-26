@@ -1,2 +1,2 @@
 ## Portfolio for Coding
-lindakly.com
+http://www.lindakly.com/
