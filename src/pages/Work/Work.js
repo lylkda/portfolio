@@ -57,7 +57,7 @@ class Work extends Component{
                 <h4>FMA Memory Game</h4>
               </Grid.Column>
               <Grid.Column>
-                        <Image src={Teach} href='https://github.com/rampagesang/teachaid'
+                        <Image src={Teach} href='https://github.com/lylkda/SOM'
                     style={{ 'fontSize': 120 }} avatar />
                 <h4>Teach Aid</h4>
               </Grid.Column>
